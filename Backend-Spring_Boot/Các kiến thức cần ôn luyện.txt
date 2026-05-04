@@ -1,0 +1,15 @@
+1. Spring
+-- Spring core
+-- Spring security
+-- Spring data
+-- Spring boot
+
+2. Database
+-- PostgresSQL
+-- Indexing
+
+3. OOP
+
+4. DSA
+
+5. 
